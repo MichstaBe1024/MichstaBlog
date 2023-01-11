@@ -1,5 +1,4 @@
 export default {
-  // base: '/michstabe_blog/',
   title: 'MichstaBe',
   description: 'MichstaBe Blog',// mate标签description，多用于搜索引擎抓取摘要
   themeConfig: {
